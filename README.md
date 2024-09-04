@@ -55,7 +55,7 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Caso: **Predição de Diagnósticos a partir de Dados de Imagens**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn_ex.ipynb)
 
-> **ATENÇÃO**: Próxima aula exercício avaliativo em sala.
+> **ATENÇÃO**: Próxima aula, 11.09, exercício avaliativo em sala. Os exercícios devem empregar o dataset [penguins](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv).
 
 **5.** [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
