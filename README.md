@@ -44,12 +44,12 @@ rogerio.oliveira@mackenzie.br
 **2** [**Aprendizado Supervisionado e Regressão Linear**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
 > [Lab Caso: **Estimando a emissão de gases CO2 de veículos**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/ML2_Regressao_ex.ipynb)
-| [SOLUÇÃO](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/ML3_RegressaoLogistica_ex_solucao.ipynb)
+| [SOLUÇÃO](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/ML2_Regressao_ex_solucao.ipynb)
 
 **3** [**Classificação: Regressão Logística**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica.ipynb)
 
 > [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica_ex.ipynb) 
-| [SOLUÇÃO](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/ML2_Regressao_ex_solucao.ipynb)
+| [SOLUÇÃO](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/ML3_RegressaoLogistica_ex_solucao.ipynb)
 > 
 **4.** [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
 
