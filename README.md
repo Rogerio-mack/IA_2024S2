@@ -19,6 +19,8 @@ rogerio.oliveira@mackenzie.br
 * **13.11** Avaliação A2
 * **20.11** Entrega e Apresentação dos Projetos
 
+* [**Projeto**, 2o Bimestre](https://github.com/Rogerio-mack/IA_2024S2/blob/main/ML_projects_Excalidraw.png?raw=true)  
+
 #### Notas
 
 * $N_1 = 0.7 A_1 + 0.3 \text{Atividades}$
