@@ -59,9 +59,15 @@ rogerio.oliveira@mackenzie.br
 
 > **ATENÇÃO**: Próxima aula, 11.09, exercício avaliativo em sala. Os exercícios devem empregar o dataset [penguins](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv).
 
+> [**Solução Lab Avaliativo**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/Mack_Lab_regressoes_solucao.ipynb) 
+
 **5.** [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
 > [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb)
+
+> [**PROJETO SEMESTRE**](https://github.com/Rogerio-mack/IA_2024S2/blob/main/Projeto_escuro.png)
+ 
+> [Métricas de Classificação](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/Mack_Lab_Knn_Metricas_Resolvido.ipynb)
 
 **6.** [**Validação Cruzada e GridSearch**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch.ipynb)
 
