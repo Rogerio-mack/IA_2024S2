@@ -19,7 +19,11 @@ rogerio.oliveira@mackenzie.br
 * **13.11** Avaliação A2
 * **20.11** Entrega e Apresentação dos Projetos
 
-* [**Projeto**, 2o Bimestre](https://github.com/Rogerio-mack/IA_2024S2/blob/main/ML_projects_Excalidraw.png?raw=true)  
+* [**Projeto**, 2o Bimestre](https://github.com/Rogerio-mack/IA_2024S2/blob/main/ML_projects_Excalidraw.png?raw=true)
+
+> [templates SBC para o artigo](https://www.sbc.org.br/documentosinstitucionais/#publicacoes) 
+
+> Exemplos de Projetos GitHub: [Exemplo 1](https://github.com/saic-fi/Bayesian-Prompt-Learning/tree/main) | [Exemplo 2](https://github.com/jcampolim/iniciacao-tecnologica) [Exemplo 3](https://github.com/open-vlf)
 
 #### Notas
 
