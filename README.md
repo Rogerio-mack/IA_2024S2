@@ -67,7 +67,7 @@ rogerio.oliveira@mackenzie.br
 
 **5.** [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
-> [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb)
+> [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/ML5_DecisionTrees_ex_solucao.ipynb)
 
 > [**PROJETO SEMESTRE**](https://github.com/Rogerio-mack/IA_2024S2/blob/main/Projeto_escuro.png)
  
