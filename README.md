@@ -63,11 +63,12 @@ rogerio.oliveira@mackenzie.br
 
 > **ATENÇÃO**: Próxima aula, 11.09, exercício avaliativo em sala. Os exercícios devem empregar o dataset [penguins](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv).
 
-> [**Solução Lab Avaliativo**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/Mack_Lab_regressoes_solucao.ipynb) 
+> [**Solução Lab Avaliativo**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/Mack_Lab_regressoes_solucao.ipynb)
+| [SOLUÇÃO](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/ML4_Knn_ex_solucao.ipynb)
 
 **5.** [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
-> [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/ML5_DecisionTrees_ex_solucao.ipynb)
+> [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees_ex.ipynb) | [SOLUÇÃO](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/ML5_DecisionTrees_ex_solucao.ipynb)
 
 > [**PROJETO SEMESTRE**](https://github.com/Rogerio-mack/IA_2024S2/blob/main/Projeto_escuro.png)
  
