@@ -77,10 +77,11 @@ rogerio.oliveira@mackenzie.br
 **6.** [**Validação Cruzada e GridSearch**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch.ipynb)
 
 > [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch_ex.ipynb)
+| [SOLUÇÃO](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/ML6_CV_GridSearch_ex_solucao.ipynb)
 
 **7.** [**Seleção de Modelos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_SelecaoDeModelos.ipynb)
 
-
+**8**. [**Aprendizado não Supervisionado: Clustering**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb)
 
 
 
