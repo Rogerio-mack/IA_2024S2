@@ -83,6 +83,11 @@ rogerio.oliveira@mackenzie.br
 
 **8**. [**Aprendizado não Supervisionado: Clustering**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb)
 
+> [Lab Caso: Glass recycle, Attribute, Model selection - Solução](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/AI_2024S2_Lab3_solucao.ipynb)
+
+> [Exemplo Kmeans + HCluster](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T12_EXTRA_kmeans_e_hcluster.ipynb)
+
+> [Lab Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)
 
 
 
