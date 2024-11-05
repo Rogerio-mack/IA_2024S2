@@ -89,6 +89,19 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)
 
+**9** [Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+
+> [**Lab Avaliativo - Clustering + PCA**](https://forms.gle/Bk7BLp5dBh7JJ4jQ6)
+
+> [MLP Modelo Multilayer Perceptron](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb)
+
+> [**Exemplo iris** MLP scikit-learn](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/mlp_iris.ipynb)
+
+> [**MLP Exercício**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/mlp_penguins.ipynb)
+ 
+
+
+
 
 
 
