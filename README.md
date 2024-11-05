@@ -89,7 +89,7 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)
 
-**9**. [Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+**9**. [**Introdução às Redes Neurais**](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
 
 > [**Lab Avaliativo - Clustering + PCA**](https://forms.gle/Bk7BLp5dBh7JJ4jQ6)
 
