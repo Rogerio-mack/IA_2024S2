@@ -91,7 +91,7 @@ rogerio.oliveira@mackenzie.br
 
 **9**. [**Introdução às Redes Neurais**](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
 
-> [**Lab Avaliativo - Clustering + PCA, até 08.11**](https://forms.gle/Bk7BLp5dBh7JJ4jQ6) | [SOLUÇÃO, a partir de 09.11](https://colab.research.google.com/drive/*GxtzUNr7jrYeokL4A3pQTEIR6rQhXNb5?usp=sharing)
+> [**Lab Avaliativo - Clustering + PCA, até 08.11**](https://forms.gle/Bk7BLp5dBh7JJ4jQ6) | [SOLUÇÃO, a partir de 09.11](https://colab.research.google.com/drive/1GxtzUNr7jrYeokL4A3pQTEIR6rQhXNb5?usp=sharing)
 
 > [MLP Modelo Multilayer Perceptron](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb)
 
