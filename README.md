@@ -99,7 +99,25 @@ rogerio.oliveira@mackenzie.br
 
 > [**MLP Exercício**](https://colab.research.google.com/github/Rogerio-mack/IA_2024S1/blob/main/mlp_penguins.ipynb)
  
+> Verifique aqui as suas [notas](https://github.com/Rogerio-mack/IA_2024S2/raw/refs/heads/main/IA_2024S2_P2_notas.xlsx)
 
+* Prova Substitutiva: 04.12
+* Prova Final: 11.12
+
+> Conteúdos para as Provas Sub e Final:
+
+* Preparação dos Dados: hot encode, normalização
+* Classificação: Seleção de modelos, GridSearchCV
+* Classificação: Classification Report, FP, FN
+* Clustering: Determinação do melhor número de clusters, valores médios dos grupos
+* Clustering: Acuracidade de Clusterização
+* Teoria:
+  *  Acuracidade de Clusterização
+  *  Precisão, Recall etc.
+  *  Ganho de Informação, contexto de Árvore de Decisão, Entropia
+  *  Parâmetros e hiperparâmetros de modelos
+  *  Cluster Hierárquico
+  *  Aprendizado Supervisionado x Não Supervisionado 
 
 
 
