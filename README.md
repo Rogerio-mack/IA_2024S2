@@ -101,6 +101,10 @@ rogerio.oliveira@mackenzie.br
  
 > Verifique aqui as suas [notas](https://github.com/Rogerio-mack/IA_2024S2/raw/refs/heads/main/IA_2024S2_P2_notas.xlsx)
 
+**10**. **Avaliações e Finais**
+
+> [Solução P2](https://colab.research.google.com/github/Rogerio-mack/IA_2024S2/blob/main/IA_P2_2024S2_solucao.ipynb)
+ 
 * Prova Substitutiva: 04.12
 * Prova Final: 11.12
 
